@@ -1,5 +1,7 @@
 import instaloader
 
+#checking to see if people follow you back
+
 L = instaloader.Instaloader()
 
 # Login or load session
